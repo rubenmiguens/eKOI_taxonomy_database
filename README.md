@@ -31,7 +31,7 @@ Contains figures generated for the publication XXX.
 Final FASTA file with taxonomically curated sequences in the following format:
 ID Domain;supergroup;division;subdivision;phylum;class;order;family;genus;species;accession
 
-- eKOI_taxonomy_PR2.fasta
+- [eKOI_taxonomy_PR2.fasta](https://github.com/rubenmiguens/eKOI_taxonomy_database/blob/main/eKOI_taxonomy_PR2.fasta)
 Final FASTA file with taxonomically curated sequences formatted according to the PR2 taxonomy convention:
 ID Domain;supergroup;division;subdivision;class;order;family;genus;species;accession
 
