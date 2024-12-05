@@ -5,29 +5,29 @@
 This repository contains data and scripts related to the analysis and curation of the eKOI database, which is based on the mitochondrial COI gene. Below is a detailed description of the folders and files included in this repository.
 
 # Folders
-- 1_scripts
+- **1_scripts:**
 Contains scripts used to generate various files and analyses.
 
-- 2_alignment_eKOI
+- **2_alignment_eKOI:**
 Alignments for each phylum, including sequences that constitute the final eKOI.fasta and eKOI_taxonomy_PR2.fasta files.
 
-- 3_ASV_metabarcoding
+- **3_ASV_metabarcoding:**
 Alignments and OTUs for each phylum derived from the taxonomically reannotated ASVs from metabarcoding studies using the eKOI database. The metadata file contains information about the samples and studies included.
 
-- 4_alignment_phylogenetic_trees
+- **4_alignment_phylogenetic_trees:**
 Alignments and phylogenetic trees for each phylum, combining sequences from the eKOI database and taxonomically reannotated ASVs.
 
-- 5_COI_databases_comparison
+- **5_COI_databases_comparison:**
 Comparison of the eKOI database with other databases based on the mitochondrial COI gene.
 
-- Tables
+- **Tables:**
 Contains supplementary tables with taxonomic information for each FASTA file.
 
-- Figures
+- **Figures:**
 Contains figures generated for the publication XXX.
 
 # Files
-- eKOI.fasta
+- [eKOI.fasta](https://github.com/rubenmiguens/eKOI_taxonomy_database/blob/main/eKOI_taxonomy_PR2.fasta)
 Final FASTA file with taxonomically curated sequences in the following format:
 ID Domain;supergroup;division;subdivision;phylum;class;order;family;genus;species;accession
 
