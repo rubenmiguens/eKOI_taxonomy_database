@@ -36,4 +36,6 @@ Final FASTA file with taxonomically curated sequences formatted according to the
 ID Domain;supergroup;division;subdivision;class;order;family;genus;species;accession
 
 # Reference
-- XXX
+- A Novel Taxonomic Database for eukaryotic Mitochondrial Cytochrome Oxidase subunit I Gene (eKOI): Enhancing taxonomic resolution at community-level in metabarcoding analyses
+Ruben Gonzalez-Miguens, Alex Galvez-Morante, Margarita Skamnelou, Meritxell Anto, Elena Casacuberta, Daniel J. Richter, Daniel Vaulot, Javier del Campo, Inaki Ruiz-Trillo
+bioRxiv 2024.12.05.626972; doi: https://doi.org/10.1101/2024.12.05.626972
