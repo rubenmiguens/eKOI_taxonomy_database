@@ -27,11 +27,11 @@ Contains supplementary tables with taxonomic information for each FASTA file.
 Contains figures generated for the publication XXX.
 
 # Files
-- [eKOI.fasta](https://github.com/rubenmiguens/eKOI_taxonomy_database/blob/main/eKOI_taxonomy_PR2.fasta)
+- [eKOI_ver1.fasta](https://github.com/rubenmiguens/eKOI_taxonomy_database/blob/main/eKOI_ver1.fasta)
 Final FASTA file with taxonomically curated sequences in the following format:
 ID Domain;supergroup;division;subdivision;phylum;class;order;family;genus;species;accession
 
-- [eKOI_taxonomy_PR2.fasta](https://github.com/rubenmiguens/eKOI_taxonomy_database/blob/main/eKOI_taxonomy_PR2.fasta)
+- [eKOI_taxonomy_PR2_ver1.fasta](https://github.com/rubenmiguens/eKOI_taxonomy_database/blob/main/eKOI_taxonomy_PR2_ver1.fasta)
 Final FASTA file with taxonomically curated sequences formatted according to the PR2 taxonomy convention:
 ID Domain;supergroup;division;subdivision;class;order;family;genus;species;accession
 
